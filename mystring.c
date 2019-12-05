@@ -137,7 +137,7 @@ char * mystrstr(const char * dest, const char * src){
 
 
 int main (void){
-    char a[] = "hello";
+    char a[] = "111hello";
     char b[] = "world";
     //printf("%s\n",mystrcpy(a,b));
     printf("a:%d b:%d \n",mystrlen(a),mystrlen(b));
